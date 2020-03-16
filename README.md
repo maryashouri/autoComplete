@@ -1,3 +1,3 @@
 # autoComplete
 
-simple autocomplete project
+simple autocomplete project with pure js
